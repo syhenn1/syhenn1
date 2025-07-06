@@ -5,22 +5,11 @@
 </p>
 
 <p align="center">
-  Saya seorang <strong>[Pekerjaan/Status Anda, misal: Software Developer / Mahasiswa]</strong> dari Indonesia 🇮🇩.<br/>
-  Saya memiliki ketertarikan mendalam pada <strong>[Bidang yang Anda minati, misal: Web Development, Data Science, atau AI]</strong>.<br/>
-  Saat ini sedang fokus untuk belajar dan membangun proyek-proyek yang bermanfaat.
+Holaa! I'm currently on a journey of becoming a great data analyst and programmer. I'm a student from a college in Indonesia, majoring computer science.
 </p>
 
-<p align="center">
-  - 🔭 Saya saat ini sedang mengerjakan <strong>[Nama Proyek Anda]</strong>...
-  <br/>
-  - 🌱 Saya saat ini sedang mempelajari <strong>[Teknologi yang sedang dipelajari]</strong>...
-  <br/>
-  - 📫 Hubungi saya melalui: <strong>[email@anda.com]</strong>
-</p>
 
----
-
-### 📊 Statistik & Pencapaian Saya
+### 📊 Statistics
 
 <table align="center">
   <tr>
@@ -39,7 +28,7 @@
 
 ---
 
-### 💻 Teknologi & Alat yang Saya Gunakan
+### 💻 Technology that I've Used
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -51,7 +40,7 @@
 
 ---
 
-### 🔗 Hubungi & Ikuti Saya
+### 🔗 Contact Me!
 
 <p align="center">
   <a href="https://linkedin.com/in/[USERNAME_LINKEDIN_ANDA]" target="blank">
@@ -67,8 +56,3 @@
 
 ---
 
-### 🐍 Grafik Kontribusi Ular
-
-<p align="center">
-  <img src="https://github.com/syhenn1/syhenn1/blob/output/github-contribution-grid-snake.svg" alt="snake-contribution-grid" />
-</p>
