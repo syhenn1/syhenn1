@@ -1,12 +1,12 @@
 ## Hi there 👋
 Here are some ideas to get you started:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syehnn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syehnn1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syhenn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syhenn1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syehnn1&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syhenn1&show_icons=true&theme=tokyonight" alt="github stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syehnn1&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhenn1&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ### 💻 Teknologi & Alat yang Saya Gunakan:
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 **syhenn1/syhenn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 halo
 Here are some ideas to get you started:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syehnn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syhenn1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMA-USERNAME-ANDA&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
