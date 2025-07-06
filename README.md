@@ -22,11 +22,18 @@
 
 ### 📊 Statistik & Pencapaian Saya
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=syhenn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="syhenn1's github stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhenn1&layout=compact&theme=tokyonight&hide_border=true" alt="syhenn1's top langs" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syhenn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="syhenn1's github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhenn1&layout=compact&theme=tokyonight&hide_border=true" alt="syhenn1's top langs" />
-  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=syhenn1&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="syhenn1's trophies" />
 </p>
 
