@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Holaa! I'm currently on a journey of becoming a great data analyst and programmer. I'm a student from a college in Indonesia called Jakarta State Polytechnic, majoring D4 Informatics Engineering.
+Holaa! I'm currently on a journey of becoming a great data analyst and programmer. I'm a student from a college in Indonesia named Jakarta State Polytechnic, majoring D4 Informatics Engineering.
 </p>
 
 ---
